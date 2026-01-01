@@ -1,4 +1,4 @@
-### Hi there my name is Roberto
+### Hi there, my name is Roberto
 
 I am a **Bionics Engineer** currently pursuing a **Master's in Systems Engineering**. I'm fascinated by the intersection of hardware, software, and how technology impacts human life styles.
 
